@@ -3,8 +3,7 @@
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CUDA_C/C++_basic-76B900?style=flat-square&logo=Nvidia&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CUDA_C/C++_basic-76B900?style=flat-square&logo=Nvidia&logoColor=white"/></a>
-#76B900
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=Neo4j&logoColor=white"/></a>
 
 <!--
 **ChoiMunbong/ChoiMunbong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
