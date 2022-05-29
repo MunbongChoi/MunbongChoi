@@ -1,4 +1,4 @@
-### Hi there 👋
+공부하는 학생입니다.🌱
 <!-- <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp  -->
 Main use List<br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -22,7 +22,7 @@ Learning List<br>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiMunbong"/></a>
 
 
-<!--#00ADD8
+<!--
 **ChoiMunbong/ChoiMunbong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
