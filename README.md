@@ -7,6 +7,8 @@ Done List<br>
 <img src="https://img.shields.io/badge/go-00ADD8?style=flat-square&logo=go&logoColor=white"/></a>
 
 <br> <img src ="https://github-readme-stats.vercel.app/api?username=ChoiMunbong"/></a>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiMunbong"/></a>
+
 
 <!--#00ADD8
 **ChoiMunbong/ChoiMunbong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
