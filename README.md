@@ -9,9 +9,8 @@ Done List<br>
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 
-
-#2496ED
 <br> <img src ="https://github-readme-stats.vercel.app/api?username=ChoiMunbong"/></a>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiMunbong"/></a>
 
