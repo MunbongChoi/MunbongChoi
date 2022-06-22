@@ -1,6 +1,8 @@
-공부하는 학생입니다.🌱
+I learning to Grpah Neural Network.🌱
+I interested Data Science👯
+
 <!-- <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp  -->
-Main use List<br>
+Main Use Tech List<br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CUDA_C/C++_basic-76B900?style=flat-square&logo=Nvidia&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=Neo4j&logoColor=white"/></a>
@@ -12,7 +14,7 @@ Main use List<br>
 
 <br>
 
-Learning List<br>
+Learning Now List<br>
 <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=OpenGL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/></a>
