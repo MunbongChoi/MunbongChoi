@@ -1,6 +1,9 @@
-I am learning to Grpah Neural Network for Data Imputation now.🌱<br>
+I am learning to Graph Neural Network for Data Imputation now.🌱<br>
 I interest Aritificial Inteligence for DS.🌱<br>
-I am learning at Data Science Lab in Donga University.🌱<br>
+I am learned at Data Science Lab in Donga University.🔭<br>
+I am learning at Multimedia Information Lab in Korea University.🔭<br>
+How to reach me:ansqhd7566@gmail.com
+
 
 <!-- <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp  -->
 Main Use Tech List<br>
