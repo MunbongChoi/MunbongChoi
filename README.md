@@ -1,7 +1,7 @@
 I am learning to Graph Neural Network for Data Imputation now.<br>
 I interest Aritificial Inteligence for DS.<br>
 I am learned at Data Science Lab.<br>
-I am learning at Multimedia Information Lab in Korea University.<br>
+I am learning at Korea University.<br>
 How to reach me:mbchoi@korea.ac.kr
 
 
