@@ -1,4 +1,4 @@
-I am currently learning about data imputation using graph neural networks and bioacoustic classification. <br>
+I am currently learning about data imputation using graph neural networks and species classification using bioacoustics classification. <br>
 I am interested in applying artificial intelligence to the field of data science. <br>
 I studied at the Data Science Lab. <br>
 Currently, I am studying at Korea University. <br>
