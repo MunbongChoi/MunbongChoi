@@ -1,8 +1,9 @@
-I am learning to Graph Neural Network for Data Imputation now.<br>
-I interest Aritificial Inteligence for DS.<br>
-I am learned at Data Science Lab.<br>
-I am learning at Korea University.<br>
-How to reach me:mbchoi@korea.ac.kr
+I am currently learning about data calibration using graph neural networks and bioacoustic classification. <br>
+I am interested in applying artificial intelligence to the field of data science. <br>
+I studied at the Data Science Lab. <br>
+Currently, I am studying at Korea University. <br>
+
+💬 : mbchoi@korea.ac.kr
 
 
 <!-- <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp  -->
