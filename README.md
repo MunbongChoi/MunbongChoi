@@ -87,7 +87,7 @@
   <ol>
     <li>chatGPT 기반의 동의어 사전 구축 시스템 및 신규 성능지표 개발 (2023)</li>
     <ul>
-      <li>LLM모델인 chatGPT를 활용하여 검색엔진에 사용되는 동의어 사전을 구축하여 검색성능을 개선하고 동의어가 사용되는 신규 성능지표 개발</li>
+      <li>LLM모델인 chatGPT를 활용하여 검색엔진에 사용되는 동의어 사전을 구축하여 검색성능을 개선하고 동의어사전 성능이 반영되는 신규 성능지표 개발</li>
       <li><code>Python</code> <code>Large Language Model</code> <code>Natural Language Processing</code> <code>Deep Learning</code>
     </ul><br>
     <li>MAML기반의 전력수요 예측 기법 (2023)</li>
