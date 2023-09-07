@@ -88,9 +88,8 @@
     <li>유니티 엔진을 사용한 게임개발 (2019)</li>
     <ul>
       <li>유니티 엔진을 활용하여 PC게임 개발</li>
-      <li><code>C#</code> <code>Game Development</code></li>
+      <li><code>C#</code> <code>Game Development</code> </li>
     </ul>
-    
     <li>디스이즈 어플리케이션 서버개발 (2020 ~ 2021)</li>
     <ul>
       <li>동아대 학우들의 편의를 위해 개발된 THISIS 어플리케이션의 웹크롤링 및 서버개발</li>
