@@ -1,19 +1,20 @@
 <h2>💬 Introduction</h2>
 <h3>최문봉 (Munbong Choi)</h3>
-<ul>
-  <li>Email : mbchoi@korea.ac.kr</li>
-</ul>
+  <ul>
+    <li>Email : mbchoi@korea.ac.kr</li>
+  </ul>
 <h3>👯 Belong</h2>
-<ul>
-  <li>고려대학교대학원 전기전자공학부 컴퓨터공학전공 석박통합과정, 멀티미디어정보연구실 (23.03. ~ )</li>
-  <li>Multimedia Information Laboratory, Korea University Graduate School, School of Electrical Engineering, Computer Engineering, Integrated Master's and Doctorate Program (23.03. ~ )</li>
-</ul>
+  <ul>
+    <li>고려대학교대학원 전기전자공학부 컴퓨터공학전공 석박통합과정, 멀티미디어정보연구실 (23.03. ~ )</li>
+    <li>Multimedia Information Laboratory, Korea University Graduate School, School of Electrical Engineering, Computer Engineering, Integrated Master's and Doctorate Program (23.03. ~ )</li>
+  </ul>
 <h3>🌱 Interest</h3>
-<ul>
-  <li>Multivariate Timeseries Forecasting and Imputation.</li>
-  <li>Pattern Recognize and Analysis.</li>
-  <li>Sound Source Separation.</li>
-</ul>
+  <ul>
+    <li>Multivariate Timeseries Forecasting and Imputation.</li>
+    <li>Pattern Recognize and Analysis.</li>
+    <li>Sound Source Separation.</li>
+  </ul>
+  
 <h3>🖥Skills</h3>
 <ul>
   <li>Programming Languages</li>
@@ -24,6 +25,7 @@
       <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
   </ul>
 </ul>
+
 <ul>
   <li>Database</li>
   <ul>
@@ -31,6 +33,7 @@
       <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=Neo4j&logoColor=white"/></a>
   </ul>
 </ul>
+
 <ul>
   <li>Library</li>
   <ul>
@@ -40,19 +43,18 @@
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
   </ul>
 </ul>
+
 <ul>
   <li>Other skills</li>
   <ul>
-    <li>
       <img src="https://img.shields.io/badge/CUDA_C/C++_basic-76B900?style=flat-square&logo=Nvidia&logoColor=white"/>
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-    </li>
   </ul>
 </ul>
 
 
 <!-- <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp  -->
-Main Use Tech List<br>
+Main Use Tech List <br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/go-00ADD8?style=flat-square&logo=go&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C//C++-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
