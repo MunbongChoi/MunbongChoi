@@ -93,12 +93,12 @@
     <li>MAML기반의 전력수요 예측 기법 (2023)</li>
     <ul>
       <li>데이터 부족으로 인해 발생하는 딥러닝의 문제를 MAML로 개선하여 전력수요기법의 정확도 향상</li>
-      <li><code>Python</code> <code>M</code> <code>Model-agnostic Meta Learning for Fast Adaptation of Deep Networks</code> <code>AI Development</code>
+      <li><code>Python</code> <code>Meta Learning</code> <code>Model-agnostic Meta Learning for Fast Adaptation of Deep Networks</code> <code>Deep Learning</code> <code>AI Development</code>
     </ul><br>
     <li>CNN을 활용한 이미지 해상도 향상 기법 (2022)</li>
     <ul>
       <li>단순히 픽셀의 개수를 늘리고 주변에 있는 색상으로 픽셀을 채우는 기존 방법의 한계인 이미지의 수채화현상을 개선하기 위해 Convolution Neural Network 기반의 Super Resolution 기법 개발</li>
-      <li><code>Python</code> <code>Convolution Neural Network</code> <code>Deep Learning</code></li>
+      <li><code>Python</code> <code>Convolution Neural Network</code> <code>Deep Learning</code></li> <code>AI Development</code>
     </ul><br>
     <li>CRNN을 활용한 이미지 내 텍스트 탐지 및 인페인팅 방안 (2022)</li>
     <ul>
@@ -111,12 +111,12 @@
       <li>졸업작품전시회 우수상</li>
       <li><code>Python</code> <code>Multi-directional Recurrent Neural Network</code> <code>Deep Learning</code> <code>AI Development</code> <code>Fullstack Development</code></li>
     </ul><br>
-    <li>인공지능을 활용한 사용자 맞춤 전력관리 분석 서비스 플랫폼 개발 (2021)</li>
+    <li>순환신경망을 활용한 사용자 맞춤 전력관리 분석 서비스 플랫폼 개발 (2021)</li>
     <ul>
       <li>사용자별 다른 전력수요를 예측하고, 전기소비를 줄여주는 서비스를 개발하기 위해 한국전력공사 데이터센터의 전력데이터와 LSTM을 사용하여 사용자 맞춤 전력관리 분석 서비스 개발</li>
       <li>안드로이드 버전 개발 완료 (배포X)</li>
       <li>2021 전력데이터활용 신서비스 경진대회 한국수력원자력 사장상</li>
-      <li><code>Python</code> <code>React</code> <code>Flask</code> <code>Deep Learning</code> <code>Long-Short Term Memory</code> <code>Time Series Forecasting</code> <code>Fullstack Development</code></li>
+      <li><code>Python</code> <code>React</code> <code>Flask</code> <code>Deep Learning</code> <code>Long-Short Term Memory</code> <code>Time Series Forecasting</code> <code>AI Development</code> <code>Fullstack Development</code></li>
     </ul><br>
     <li>RPA를 활용한 재난대피시스템 (2021)</li>
     <ul>
@@ -132,7 +132,7 @@
     <li>유니티 엔진을 사용한 게임개발 (2019)</li>
     <ul>
       <li>유니티 엔진을 활용하여 PC게임 개발</li>
-      <li><code>C#</code> <code>Game Development</code> </li>
+      <li><code>Unity</code> <code>C#</code> <code>Game Development</code> </li>
     </ul>
   </ol>
   
