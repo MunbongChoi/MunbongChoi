@@ -93,12 +93,12 @@
     </ul><br>
     <li>MAML기반의 전력수요 예측 기법 (2023)</li>
     <ul>
-      <li>데이터 부족으로 인해 발생하는 딥러닝의 문제를 MAML로 개선하여 전력수요기법의 정확도 향상</li>
+      <li>데이터 부족으로 인해 발생하는 딥러닝의 문제를 MAML로 개선하여 딥러닝 전력수요예측 기법에 적용하여 정확도 향상</li>
       <li><code>Python</code> <code>Meta Learning</code> <code>Model-agnostic Meta Learning for Fast Adaptation of Deep Networks</code> <code>Deep Learning</code> <code>AI Development</code>
     </ul><br>
     <li>CNN을 활용한 이미지 해상도 향상 기법 (2022)</li>
     <ul>
-      <li>단순히 픽셀의 개수를 늘리고 주변에 있는 색상으로 픽셀을 채우는 기존 방법의 한계인 이미지의 수채화현상을 개선하기 위해 Convolution Neural Network 기반의 Super Resolution 기법 개발</li>
+      <li>단순히 픽셀의 개수를 늘리고 주변에 있는 색상으로 픽셀을 채우는 기존 방법의 한계로 인해 발생하는 이미지의 수채화현상을 개선하기 위해 Convolution Neural Network 기반의 Super Resolution 기법 개발</li>
       <li><code>Python</code> <code>Convolution Neural Network</code> <code>Deep Learning</code> <code>AI Development</code></li>
     </ul><br>
     <li>CRNN을 활용한 이미지 내 텍스트 탐지 및 인페인팅 방안 (2022)</li>
