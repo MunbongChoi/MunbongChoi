@@ -15,9 +15,9 @@
     <li>Sound Source Separation.</li>
   </ul>
   
-<h3>🖥Skills</h3>
+<h3>🖥 Skills</h3>
 <ul>
-  <li>Programming Languages</li>
+  <h4>Programming Languages</h4>
   <ul>
       <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
       <img src="https://img.shields.io/badge/C//C++-A8B9CC?style=flat-square&logo=C_C++&logoColor=white"/>
@@ -27,7 +27,7 @@
 </ul>
 
 <ul>
-  <li>Database</li>
+  <h4>Database</h4>
   <ul>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
       <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=Neo4j&logoColor=white"/></a>
@@ -35,7 +35,7 @@
 </ul>
 
 <ul>
-  <li>Library</li>
+  <h4>Library</h4>
   <ul>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
       <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
@@ -45,7 +45,7 @@
 </ul>
 
 <ul>
-  <li>Other skills</li>
+  <h4>Other skills</h4>
   <ul>
       <img src="https://img.shields.io/badge/CUDA_C/C++_basic-76B900?style=flat-square&logo=Nvidia&logoColor=white"/>
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
