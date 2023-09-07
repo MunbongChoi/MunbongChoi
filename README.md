@@ -17,39 +17,30 @@
   
 <h3>🖥 Skills</h3>
 <ul>
-  <h4>Programming Languages</h4>
-  <ul>
+  <h4>Programming Languages : </h4>
       <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
       <img src="https://img.shields.io/badge/C//C++-A8B9CC?style=flat-square&logo=C_C++&logoColor=white"/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
       <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
-  </ul>
 </ul>
 
 <ul>
-  <h4>Database</h4>
-  <ul>
+  <h4>Database : </h4>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
       <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=Neo4j&logoColor=white"/></a>
-  </ul>
 </ul>
 
 <ul>
-  <h4>Library</h4>
-  <ul>
+  <h4>Mainly used library : </h4>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
       <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  </ul>
 </ul>
 
 <ul>
-  <h4>Other skills</h4>
-  <ul>
+  <h4>Other skills : </h4>
       <img src="https://img.shields.io/badge/CUDA_C/C++_basic-76B900?style=flat-square&logo=Nvidia&logoColor=white"/>
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-  </ul>
 </ul>
 
 
