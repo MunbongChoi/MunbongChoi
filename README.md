@@ -3,11 +3,15 @@
   <ul>
     <li>Email : mbchoi@korea.ac.kr</li>
   </ul>
-<h3>👯 Belong</h2>
+  
+<h3>👯 Education and Belong</h2>
   <ul>
+    <li>동아대학교 전기전자컴퓨터공학부 컴퓨터공학과 학사, 데이터사이언스연구실 (21.05. ~ 23.02.)</li>
     <li>고려대학교대학원 전기전자공학부 컴퓨터공학전공 석박통합과정, 멀티미디어정보연구실 (23.03. ~ )</li>
+    <li>Datascience Lab, Donga University, Department of Computer Engineering, B.S (21.05. ~ 23.02.)</li>
     <li>Multimedia Information Laboratory, Korea University Graduate School, School of Electrical Engineering, Computer Engineering, Integrated Master's and Doctorate Program (23.03. ~ )</li>
   </ul>
+  
 <h3>🌱 Interest</h3>
   <ul>
     <li>Multivariate Timeseries Forecasting and Imputation.</li>
@@ -43,12 +47,16 @@
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
 </ul>
 
+<h3>🥇 Certificates</h2>
+  <ul>
+    <li>제10회 산업통상자원부 공공데이터 활용 BI 공모전, 한국전력거래서 (2022)</li>
+    <li>제10회 산업통상자원부 공공데이터 활용 BI 공모전, 한국전력거래서 (2022)</li>
+    <li>Multimedia Information Laboratory, Korea University Graduate School, School of Electrical Engineering, Computer Engineering, Integrated Master's and Doctorate Program (23.03. ~ )</li>
+  </ul>
+
 
 <!-- <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp  -->
-Main Use Tech List <br>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/go-00ADD8?style=flat-square&logo=go&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C//C++-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+
 <br>
 <br> <img src ="https://github-readme-stats.vercel.app/api?username=ChoiMunbong"/> </a>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiMunbong"/></a>
