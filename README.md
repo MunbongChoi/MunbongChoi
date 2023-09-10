@@ -48,7 +48,7 @@
 <h3>⚓ Military Service</h2>
   <ul>
     <li>대한민국 해군 작전사령부 제1함대 군수전대 병장 만기전역 (17.08. ~ 19.06.)</li>
-    <li>Republic of Korea Navy Fleet Command The 1st Fleet Sergeant discharged (17.08. ~ 19.06.)</li>
+    <li>Republic of Korea Navy Fleet Command The 1st Fleet Petty Officer Second Class discharged (17.08. ~ 19.06.)</li>
   </ul>
 
 
