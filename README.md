@@ -86,51 +86,51 @@
 <h2>💾 Projects </h2>
 <h2>대부분의 프로젝트는 현재 Private 상태거나 업데이트가 되지 않았습니다.</h2>
   <ol>
-    <li>chatGPT 기반의 동의어 사전 구축 시스템 및 신규 성능지표 개발 (2023)</li>
+    <li><strong>ChatGPT 기반의 동의어 사전 구축 시스템 및 신규 성능지표 개발 (2023)</strong></li>
     <ul>
       <li>LLM모델인 chatGPT를 활용하여 검색엔진에 사용되는 동의어 사전을 구축하여 검색성능을 개선하고 동의어사전 성능이 반영되는 신규 성능지표 개발</li>
       <li><code>Python</code> <code>Large Language Model</code> <code>Natural Language Processing</code> <code>Deep Learning</code>
     </ul><br>
-    <li>MAML기반의 전력수요 예측 기법 (2023)</li>
+    <li><strong>MAML기반의 전력수요 예측 기법 (2023)</strong></li>
     <ul>
       <li>데이터 부족으로 인해 발생하는 딥러닝의 문제를 MAML로 개선하여 딥러닝 전력수요예측 기법에 적용하여 정확도 향상</li>
       <li><code>Python</code> <code>Meta Learning</code> <code>Model-agnostic Meta Learning for Fast Adaptation of Deep Networks</code> <code>Deep Learning</code> <code>AI Development</code>
     </ul><br>
-    <li>CNN을 활용한 이미지 해상도 향상 기법 (2022)</li>
+    <li><strong>CNN을 활용한 이미지 해상도 향상 기법 (2022)</strong></li>
     <ul>
       <li>단순히 픽셀의 개수를 늘리고 주변에 있는 색상으로 픽셀을 채우는 기존 방법의 한계로 인해 발생하는 이미지의 수채화현상을 개선하기 위해 Convolution Neural Network 기반의 Super Resolution 기법 개발</li>
       <li><code>Python</code> <code>Convolution Neural Network</code> <code>Deep Learning</code> <code>AI Development</code></li>
     </ul><br>
-    <li>CRNN을 활용한 이미지 내 텍스트 탐지 및 인페인팅 방안 (2022)</li>
+    <li><strong>CRNN을 활용한 이미지 내 텍스트 탐지 및 인페인팅 방안 (2022)</strong></li>
     <ul>
       <li>타 국가에서 국내로 제품이 수입될 때, 중국어, 일본어 등으로 작성되어 있는 이미지에 존재하는 외국어를 CRNN을 통해 탐지하고 제거, 인페인팅 시스템 개발</li>
       <li><code>Python</code> <code>Convolution Recurrent Neural Network</code> <code>Deep Learning</code> <code>AI Development</code></li>
     </ul><br>
-    <li>순환신경망 기반 신뢰적인 tou요금제 서비스 (2022)</li>
+    <li><strong>순환신경망 기반 신뢰적인 tou요금제 서비스 (2022)</strong></li>
     <ul>
       <li>전력데이터의 누락으로 인해 발생하는 TOU 요금제의 문제점을 최신 RNN 모델을 통해 전력데이터를 보간함으로써 해결하여 TOU 요금제의 신뢰도 향상</li>
       <li>졸업작품전시회 우수상</li>
       <li><code>Python</code> <code>Multi-directional Recurrent Neural Network</code> <code>Deep Learning</code> <code>AI Development</code> <code>Fullstack Development</code></li>
     </ul><br>
-    <li>순환신경망을 활용한 사용자 맞춤 전력관리 분석 서비스 플랫폼 개발 (2021)</li>
+    <li><strong>순환신경망을 활용한 사용자 맞춤 전력관리 분석 서비스 플랫폼 개발 (2021)</strong>strong></li>
     <ul>
       <li>사용자별 다른 전력수요를 예측하고, 전기소비를 줄여주는 서비스를 개발하기 위해 한국전력공사 데이터센터의 전력데이터와 LSTM을 사용하여 사용자 맞춤 전력관리 분석 서비스 개발</li>
       <li>안드로이드 버전 개발 완료 (배포X)</li>
       <li>2021 전력데이터활용 신서비스 경진대회 한국수력원자력 사장상</li>
       <li><code>Python</code> <code>React</code> <code>Flask</code> <code>Deep Learning</code> <code>Long-Short Term Memory</code> <code>Time Series Forecasting</code> <code>AI Development</code> <code>Fullstack Development</code></li>
     </ul><br>
-    <li>RPA를 활용한 재난대피시스템 (2021)</li>
+    <li><strong>RPA를 활용한 재난대피시스템 (2021)</strong></li>
     <ul>
       <li>동아대 LINK+ 사업단 연계, 기존 재난문자의 대피방법 안내 및 사용자주변의 대피소 안내에 대한 한계를 극복하기 위해 RPA를 활용하여 재난별 대피방법 및 사용자 주변 대피장소 안내 시스템 개발</li>
       <li>안드로이드 및 IOS 버전 개발 완료 (배포X)</li>
       <li><code>Python</code> <code>Robotic Process Automation</code> <code>Real-Time Processing</code> <code>Fullstack Development</code></li>
     </ul><br>
-    <li>디스이즈 어플리케이션 서버개발 (2020 ~ 2021)</li>
+    <li><strong>디스이즈 어플리케이션 서버개발 (2020 ~ 2021)</strong></li>
     <ul>
       <li>동아대 학우들의 편의를 위해 개발된 THISIS 어플리케이션의 웹크롤링 및 서버개발</li>
       <li><code>PHP</code> <code>Python</code> <code>Server Development</code></li>
     </ul><br>
-    <li>유니티 엔진을 사용한 게임개발 (2019)</li>
+    <li><strong>유니티 엔진을 사용한 게임개발 (2019)</strong></li>
     <ul>
       <li>유니티 엔진을 활용하여 PC게임 개발</li>
       <li><code>Unity</code> <code>C#</code> <code>Game Development</code> </li>
