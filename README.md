@@ -112,7 +112,7 @@
       <li>졸업작품전시회 우수상</li>
       <li><code>Python</code> <code>Multi-directional Recurrent Neural Network</code> <code>Deep Learning</code> <code>AI Development</code> <code>Fullstack Development</code></li>
     </ul><br>
-    <li><strong>순환신경망을 활용한 사용자 맞춤 전력관리 분석 서비스 플랫폼 개발 (2021)</strong>strong></li>
+    <li><strong>순환신경망을 활용한 사용자 맞춤 전력관리 분석 서비스 플랫폼 개발 (2021)</strong></li>
     <ul>
       <li>사용자별 다른 전력수요를 예측하고, 전기소비를 줄여주는 서비스를 개발하기 위해 한국전력공사 데이터센터의 전력데이터와 LSTM을 사용하여 사용자 맞춤 전력관리 분석 서비스 개발</li>
       <li>안드로이드 버전 개발 완료 (배포X)</li>
