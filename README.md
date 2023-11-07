@@ -87,10 +87,6 @@
 <h2>대부분의 프로젝트는 현재 Private 상태거나 업데이트가 되지 않았습니다.</h2>
   <ol>
     <li><strong>ing...</strong></li>
-    <ul>
-      <li></li>
-      
-    </ul><br>
     <li><strong>ChatGPT 기반의 동의어 사전 구축 시스템 및 신규 성능지표 개발 (2023)</strong></li>
     <ul>
       <li>LLM모델인 chatGPT를 활용하여 검색엔진에 사용되는 동의어 사전을 구축하여 검색성능을 개선하고 동의어사전 성능이 반영되는 신규 성능지표 개발</li>
