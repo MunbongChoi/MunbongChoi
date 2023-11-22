@@ -79,6 +79,7 @@
   </ul>
 <h3>Domestic Conference</h3>
   <ul>
+    <li><strong>최문봉</strong>, 김은빈, 문재욱, 황인준. "동물 소리 분리를 위한 주의집중 게이트 기반의 BioCPPNet", 한국정보과학회 한국소프트웨어종합학술대회 학술발표논문집, 2023</li>
     <li><strong>최문봉</strong>, 문재욱, 박성우, 황인준. "MAML 기반의 전력수요 예측 기법", 한국정보과학회 학술발표논문집, 2023</li>
     <li>이지훈, <strong>최문봉</strong>, 박경용, 천세진, 박혜리. "스마트 컨슈머를 위한 전력 관리 분석 및 제안 서비스 플랫폼 설계", 한국조명·전기설비학회 학술대회논문집, 2021</li>
   </ul>
@@ -86,7 +87,11 @@
 <h2>💾 Projects </h2>
 <h2>대부분의 프로젝트는 현재 Private 상태거나 업데이트가 되지 않았습니다.</h2>
   <ol>
-    <li><strong>ing...</strong></li>
+    <li><strong>동물 소리 분리를 위한 주의집중 게이트 기반의 BioCPPNet (2023)</strong></li>
+    <ul>
+      <li>동물 소리를 더 정확하게 분리하기 위한 BioCPPNet 기반의 동물 소리 분리 기법</li>
+      <li><code>Python</code> <code>Sound Separation</code> <code>Deep Learning</code>
+    </ul><br>
     <li><strong>ChatGPT 기반의 동의어 사전 구축 시스템 및 신규 성능지표 개발 (2023)</strong></li>
     <ul>
       <li>LLM모델인 chatGPT를 활용하여 검색엔진에 사용되는 동의어 사전을 구축하여 검색성능을 개선하고 동의어사전 성능이 반영되는 신규 성능지표 개발</li>
