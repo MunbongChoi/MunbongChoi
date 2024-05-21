@@ -7,9 +7,9 @@
 <h3>📚 Education and Belong</h2>
   <ul>
     <li>고려대학교 대학원 전기전자공학부 컴퓨터공학전공 석박통합과정, 멀티미디어정보연구실 (23.03. ~ )</li>
-<!--     <li>동아대학교 전기전자컴퓨터공학부 컴퓨터공학과 학사, 데이터사이언스연구실(17.03. ~ 23.02)</li> -->
+    <li>동아대학교 전기전자컴퓨터공학부 컴퓨터공학과 학사, 데이터사이언스연구실(17.03. ~ 23.02)</li>
     <li>Multimedia Information Laboratory, Korea University School of Electrical Engineering, Computer Engineering Major, Integrated Master's and Doctorate Program (23.03. ~ )</li>
-<!--     <li>Data Science Laboratory, Donga University, Department of Computer Engineering, B.S (17.03. ~ 23.02)</li> -->
+    <li>Data Science Laboratory, Donga University, Department of Computer Engineering, B.S (17.03. ~ 23.02)</li>
   </ul>
   
 <h3>🌱 Interest</h3>
@@ -57,9 +57,9 @@
 <h2>🥇 Award</h2>
   <ul>
     <li>제10회 산업통상자원부 공공데이터 활용 BI 공모전 한국전력거래소 사장상, 산업통상자원부 (2022)</li>
-<!--     <li>동아대학교 졸업작품전시회 우수상, 동아대학교 (2022)</li> -->
+    <li>동아대학교 졸업작품전시회 우수상, 동아대학교 (2022)</li>
     <li>2021 전력데이터활용 신서비스 경진대회 한국수력원자력 사장상, 한국전력공사 (2021)</li>
-<!--     <li>동아대학교 코딩경진대회 우수상, 동아대학교 (2020)</li> -->
+    <li>동아대학교 코딩경진대회 우수상, 동아대학교 (2020)</li>
     <li>대한민국 법무부 표창장, 법무부 (2020)</li>
   </ul>
 
