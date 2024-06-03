@@ -42,9 +42,11 @@
 </ul>
 
 <ul>
-  <h4>Other skills : </h4>
+  <h4>Usage Frameworks : </h4>
       <img src="https://img.shields.io/badge/CUDA_C/C++_basic-76B900?style=flat-square&logo=Nvidia&logoColor=white"/>
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
+  
 </ul>
 
 <h3>⚓ Military Service</h2>
@@ -98,6 +100,11 @@
     <ul>
       <li>Retrieval-Augmented Generation을 적용한 LLM을 위한 데이터 구축 및 할루시네이션 방지 기법</li>
       <li><code>Python</code> <code>Large Language Model</code> <code>Deep Learning</code>
+    </ul><br>
+    <li><strong>순서학습을 위한 인공지능용 데이터베이스 구축 (2023)</strong></li>
+    <ul>
+      <li>순서학습을 위한 데이터베이스 구축 방안 및 구현</li>
+      <li><code>Python</code> <code>Database</code> <code>Full Stack</code> 
     </ul><br>
     <li><strong>동물 소리 분리를 위한 주의집중 게이트 기반의 BioCPPNet (2023)</strong></li>
     <ul>
