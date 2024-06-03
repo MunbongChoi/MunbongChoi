@@ -79,15 +79,26 @@
   </ul>
 <h3>Domestic Conference</h3>
   <ul>
+    <li><strong>최문봉</strong>, 김은빈, 심종화, 황인준. "소리 질의와 Wave-U-Net을 활용한 목표 소리 추출", 한국정보과학회 한국컴퓨터종합학술대회 학술발표논문집, 2024</li>
     <li><strong>최문봉</strong>, 김은빈, 문재욱, 황인준. "동물 소리 분리를 위한 주의집중 게이트 기반의 BioCPPNet",한국정보과학회 한국소프트웨어종합학술대회, 2023</li>
     <li>박성우, <strong>최문봉</strong>, 김대훈, 정종균, 황인준. "문서 검색 엔진의 성능 향상을 위한 신조어 사전 구축 기법", Korean DataBase Conference, 2023</li>
-    <li><strong>최문봉</strong>, 문재욱, 박성우, 황인준. "MAML 기반의 전력수요 예측 기법", 한국정보과학회 학술발표논문집, 2023</li>
+    <li><strong>최문봉</strong>, 문재욱, 박성우, 황인준. "MAML 기반의 전력수요 예측 기법", 한국정보과학회 한국컴퓨터종합학술대회 학술발표논문집, 2023</li>
     <li>이지훈, <strong>최문봉</strong>, 박경용, 천세진, 박혜리. "스마트 컨슈머를 위한 전력 관리 분석 및 제안 서비스 플랫폼 설계", 한국조명·전기설비학회 학술대회논문집, 2021</li>
   </ul>
 
 <h2>💾 Projects </h2>
 <h2>대부분의 프로젝트는 현재 Private 상태거나 업데이트가 되지 않았습니다.</h2>
   <ol>
+    <li><strong>소리 질의와 Wave-U-Net을 활용한 목표 소리 추출 (2024)</strong></li>
+    <ul>
+      <li>기존 스펙트로그램으로 인해 발생하는 한계를 극복하기 위한 신규 Wave-U-Net 모델 개발</li>
+      <li><code>Python</code> <code>Sound Separation</code> <code>Deep Learning</code>
+    </ul><br>
+    <li><strong>동물 소리 분리를 위한 주의집중 게이트 기반의 BioCPPNet (2024)</strong></li>
+    <ul>
+      <li>Retrieval-Augmented Generation을 적용한 LLM을 위한 데이터 구축 및 할루시네이션 방지 기법</li>
+      <li><code>Python</code> <code>Large Language Model</code> <code>Deep Learning</code>
+    </ul><br>
     <li><strong>동물 소리 분리를 위한 주의집중 게이트 기반의 BioCPPNet (2023)</strong></li>
     <ul>
       <li>동물 소리를 더 정확하게 분리하기 위한 BioCPPNet 기반의 동물 소리 분리 기법</li>
