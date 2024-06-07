@@ -89,26 +89,26 @@
   </ul>
 
 <h2>💾 Projects </h2>
-<h2>대부분의 프로젝트는 현재 Private 상태거나 업데이트가 되지 않았습니다.</h2>
+해당 프로젝트 및 연구에 참여했으나, 보안상의 이유로 레포지토리에 업로드 및 업데이트 되지 않았습니다.
   <ol>
     <li><strong>소리 질의와 Wave-U-Net을 활용한 목표 소리 추출 (2024)</strong></li>
     <ul>
-      <li>기존 스펙트로그램으로 인해 발생하는 한계를 극복하기 위한 신규 Wave-U-Net 모델 개발</li>
+      <li>[Repo X]기존 스펙트로그램으로 인해 발생하는 한계를 극복하기 위한 신규 Wave-U-Net 모델 개발</li>
       <li><code>Python</code> <code>Sound Separation</code> <code>Deep Learning</code>
     </ul><br>
     <li><strong>동물 소리 분리를 위한 주의집중 게이트 기반의 BioCPPNet (2024)</strong></li>
     <ul>
-      <li>Retrieval-Augmented Generation을 적용한 LLM을 위한 데이터 구축 및 할루시네이션 방지 기법</li>
+      <li>[Repo X]Retrieval-Augmented Generation을 적용한 LLM을 위한 데이터 구축 및 할루시네이션 방지 기법</li>
       <li><code>Python</code> <code>Large Language Model</code> <code>Deep Learning</code>
     </ul><br>
     <li><strong>순서학습을 위한 인공지능용 데이터베이스 구축 (2023)</strong></li>
     <ul>
-      <li>순서학습을 위한 데이터베이스 구축 방안 및 구현</li>
+      <li>[Repo X]순서학습을 위한 데이터베이스 구축 방안 및 구현</li>
       <li><code>Python</code> <code>Database</code> <code>Full Stack</code> 
     </ul><br>
     <li><strong>동물 소리 분리를 위한 주의집중 게이트 기반의 BioCPPNet (2023)</strong></li>
     <ul>
-      <li>동물 소리를 더 정확하게 분리하기 위한 BioCPPNet 기반의 동물 소리 분리 기법</li>
+      <li>[Repo X]동물 소리를 더 정확하게 분리하기 위한 BioCPPNet 기반의 동물 소리 분리 기법</li>
       <li><code>Python</code> <code>Sound Separation</code> <code>Deep Learning</code>
     </ul><br>
     <li><strong>ChatGPT 기반의 동의어 사전 구축 시스템 및 신규 성능지표 개발 (2023)</strong></li>
