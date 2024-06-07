@@ -21,16 +21,17 @@
   
 <h3>🖥 Skills</h3>
 <ul>
-  <h4>Programming Languages : </h4>
+  <h4>Available language : </h4>
       <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
       <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+  
 </ul>
 
 <ul>
-  <h4>Tools and frameworks I've used : </h4>
+  <h4>Available Tools and frameworks : </h4>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
       <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
@@ -39,6 +40,7 @@
       <img src="https://img.shields.io/badge/CUDA_C/C++_basic-76B900?style=flat-square&logo=Nvidia&logoColor=white"/>
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
       <img src="https://img.shields.io/badge/gin-008ECF?style=flat-square&logo=gin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/> 
 </ul>
 
 <h3>⚓ Military Service</h2>
