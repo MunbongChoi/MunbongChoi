@@ -23,7 +23,7 @@
 <ul>
   <h4>Programming Languages : </h4>
       <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C//C++-A8B9CC?style=flat-square&logo=C_C++&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C\C++-A8B9CC?style=flat-square&logo=C_C++&logoColor=white"/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
       <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
 </ul>
