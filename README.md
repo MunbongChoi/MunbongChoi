@@ -93,22 +93,22 @@
   <ol>
     <li><strong>소리 질의와 Wave-U-Net을 활용한 목표 소리 추출 (2024)</strong></li>
     <ul>
-      <li>[Repo X]기존 스펙트로그램으로 인해 발생하는 한계를 극복하기 위한 신규 Wave-U-Net 모델 개발</li>
+      <li>기존 스펙트로그램으로 인해 발생하는 한계를 극복하기 위한 신규 Wave-U-Net 모델 개발</li>
       <li><code>Python</code> <code>Sound Separation</code> <code>Deep Learning</code>
     </ul><br>
     <li><strong>동물 소리 분리를 위한 주의집중 게이트 기반의 BioCPPNet (2024)</strong></li>
     <ul>
-      <li>[Repo X]Retrieval-Augmented Generation을 적용한 LLM을 위한 데이터 구축 및 할루시네이션 방지 기법</li>
+      <li>Retrieval-Augmented Generation을 적용한 LLM을 위한 데이터 구축 및 할루시네이션 방지 기법</li>
       <li><code>Python</code> <code>Large Language Model</code> <code>Deep Learning</code>
     </ul><br>
     <li><strong>순서학습을 위한 인공지능용 데이터베이스 구축 (2023)</strong></li>
     <ul>
-      <li>[Repo X]순서학습을 위한 데이터베이스 구축 방안 및 구현</li>
+      <li>순서학습을 위한 데이터베이스 구축 방안 및 구현</li>
       <li><code>Python</code> <code>Database</code> <code>Full Stack</code> 
     </ul><br>
     <li><strong>동물 소리 분리를 위한 주의집중 게이트 기반의 BioCPPNet (2023)</strong></li>
     <ul>
-      <li>[Repo X]동물 소리를 더 정확하게 분리하기 위한 BioCPPNet 기반의 동물 소리 분리 기법</li>
+      <li>동물 소리를 더 정확하게 분리하기 위한 BioCPPNet 기반의 동물 소리 분리 기법</li>
       <li><code>Python</code> <code>Sound Separation</code> <code>Deep Learning</code>
     </ul><br>
     <li><strong>ChatGPT 기반의 동의어 사전 구축 시스템 및 신규 성능지표 개발 (2023)</strong></li>
