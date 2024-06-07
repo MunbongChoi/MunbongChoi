@@ -41,7 +41,7 @@
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
       <img src="https://img.shields.io/badge/gin-008ECF?style=flat-square&logo=gin&logoColor=white"/>
       <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/> 
-      <img src="https://img.shields.io/badge/unity-FFFFFF?style=flat-square&logo=unity&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/unity-000000?style=flat-square&logo=unity&logoColor=white"/> 
 </ul>
 
 <h3>⚓ Military Service</h2>
