@@ -89,7 +89,7 @@
     <li><strong>소리 질의와 Wave-U-Net을 활용한 목표 소리 추출 (2024)</strong></li>
     <ul>
       <li>기존 스펙트로그램으로 인해 발생하는 한계를 극복하기 위한 신규 Wave-U-Net 모델 개발</li>
-      <li><code>Python</code> <code>Sound Separation</code> <code>Deep Learning</code>
+      <li><code>Python</code> <code>Target Sound Extraction</code> <code>Deep Learning</code>
     </ul><br>
     <li><strong>동물 소리 분리를 위한 주의집중 게이트 기반의 BioCPPNet (2024)</strong></li>
     <ul>
