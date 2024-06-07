@@ -38,7 +38,6 @@
       <img src="https://img.shields.io/badge/CUDA_C/C++_basic-76B900?style=flat-square&logo=Nvidia&logoColor=white"/>
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
       <img src="https://img.shields.io/badge/Apache?style=flat-square&logo=Apache&logoColor=white"/>
-
 </ul>
 
 <h3>⚓ Military Service</h2>
