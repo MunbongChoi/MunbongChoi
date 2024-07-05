@@ -93,7 +93,7 @@
       <li>기존 스펙트로그램으로 인해 발생하는 한계를 극복하기 위한 신규 Wave-U-Net 모델 개발</li>
       <li><code>Python</code> <code>Target Sound Extraction</code> <code>Deep Learning</code>
     </ul><br>
-    <li><strong>동물 소리 분리를 위한 주의집중 게이트 기반의 BioCPPNet (2024)</strong></li>
+    <li><strong>동물 소리 분리를 위한 주의집중 게이트 기반의 BioCPPNet (2023)</strong></li>
     <ul>
       <li>Retrieval-Augmented Generation을 적용한 LLM을 위한 데이터 구축 및 할루시네이션 방지 기법</li>
       <li><code>Python</code> <code>Large Language Model</code> <code>Deep Learning</code>
