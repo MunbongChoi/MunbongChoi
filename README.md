@@ -6,10 +6,10 @@
   
 <h3>📚 Education and Belong</h2>
   <ul>
-    <li>고려대학교 대학원 전기전자공학부 컴퓨터공학전공 석박통합과정, 멀티미디어정보연구실 (23.03. ~ )</li>
-    <li>동아대학교 전기전자컴퓨터공학부 컴퓨터공학과 학사, 데이터사이언스연구실(17.03. ~ 23.02)</li>
-    <li>Multimedia Information Laboratory, Korea University School of Electrical Engineering, Computer Engineering Major, Integrated Master's and Doctorate Program (23.03. ~ )</li>
-    <li>Data Science Laboratory, Donga University, Department of Computer Engineering, B.S (17.03. ~ 23.02)</li>
+    <li>고려대학교 대학원 전기전자공학부 컴퓨터공학전공 (23.03. ~ )</li>
+    <li>동아대학교 전기전자컴퓨터공학부 컴퓨터공학과 컴퓨터공학사 (17.03. ~ 23.02)</li>
+    <li>Korea University School of Electrical Engineering, Computer Engineering Major, Integrated Master's and Doctorate Program (23.03. ~ )</li>
+    <li>Donga University, Department of Computer Engineering, B.S (17.03. ~ 23.02)</li>
   </ul>
   
 <h3>🌱 Interest</h3>
