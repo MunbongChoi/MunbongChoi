@@ -1,7 +1,7 @@
 <h2>💬 Introduction</h2>
 <h3>최문봉 (Munbong Choi)</h3>
   <ul>
-    <li>Email : mbchoi@korea.ac.kr</li>
+    <li>Email : ansqhd7566@naver.com</li>
   </ul>
   
 <h3>📚 Education and Belong</h2>
