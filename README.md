@@ -4,14 +4,6 @@
     <li>Email : ansqhd7566@naver.com</li>
   </ul>
   
-<h3>📚 Education and Belong</h2>
-  <ul>
-    <li>고려대학교 대학원 전기전자공학부 컴퓨터공학전공 (23.03. ~ )</li>
-    <li>동아대학교 전기전자컴퓨터공학부 컴퓨터공학과 컴퓨터공학사 (17.03. ~ 23.02)</li>
-    <li>Korea University School of Electrical Engineering, Computer Engineering Major, Integrated Master's and Doctorate Program (23.03. ~ )</li>
-    <li>Donga University, Department of Computer Engineering, B.S (17.03. ~ 23.02)</li>
-  </ul>
-  
 <h3>🌱 Interest</h3>
   <ul>
     <li>Multivariate Timeseries Forecasting and Imputation.</li>
